@@ -11,7 +11,7 @@ I'm currently work as risk analyst at [BrasilPrev](https://www1.brasilprev.com.b
     👨‍💻 All my personal projects are available on Github.
     📝 I regulary take some time to cinema, history and cooking.
     💬 Ping me about react, koa, security, and cloud stuff.
-    📙 Check out my a href="(https://www.linkedin.com/in/matheus-henrique-272670161/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?    &style=for-the-badge&logo=linkedin&logoColor=white" /.
+    📙 Check out my Linkedin here <https://www.linkedin.com/in/matheus-henrique-272670161/>
     🎉 Fun Fact: 我不会说中文。
 
 Read More
