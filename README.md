@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/Matheus-hss/Matheus-hss/raw/main/assets/github.gif" alt="Hi, I'm Matheus 👋 I'm a 🚀 Brazilian Economist and Data Analyst 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 <!--
 **Matheus-hss/Matheus-hss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
