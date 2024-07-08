@@ -1,18 +1,21 @@
-<p align="center">
-  <img src="https://github.com/Matheus-hss/Matheus-hss/raw/main/assets/github.gif" alt="Hi, I'm Matheus 👋 I'm a 🚀 Brazilian Economist and Data Analyst 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
+Hi 👋, I'm Matheus, Economist and Data Analyst🤖🧙🏿‍♂️
 
-<!--
-**Matheus-hss/Matheus-hss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently work as risk analyst at [BrasilPrev](https://www1.brasilprev.com.br/home)(Banco do Brasil) and based in São Paulo-Brazil📍. I am working on some side projects, learning a couple new stuffs, and trying to conquer the world🌎.
 
-Here are some ideas to get you started:
+🍌 Don't forget to get some Potassium 🍌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡️ A Few Quick Facts
+
+    🔭 I'm currently working on some economic models and trying to apply ML to them.
+    🧐 Learning about data science, econometric theory and artificial intelligence.
+    👨‍💻 All my personal projects are available on Github.
+    📝 I regulary take some time to cinema, history and cooking.
+    💬 Ping me about react, koa, security, and cloud stuff.
+    📙 Check out my a href="(https://www.linkedin.com/in/matheus-henrique-272670161/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?    &style=for-the-badge&logo=linkedin&logoColor=white" /.
+    🎉 Fun Fact: 我不会说中文。
+
+Read More
+🚀 Some Tools I Use
+
+mysql python rstudio databricks
+
