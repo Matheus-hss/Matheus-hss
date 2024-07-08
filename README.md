@@ -12,7 +12,6 @@ I'm currently work as risk analyst in the financial market at São Paulo-Brazil�
     🧐 Learning about data science, econometric theory and artificial intelligence.
     👨‍💻 All my personal projects are available on Github.
     📝 I regulary take some time to cinema, history and cooking.
-    🎉 Fun Fact: 我不会说中文。
 
 ## My Skills
 
